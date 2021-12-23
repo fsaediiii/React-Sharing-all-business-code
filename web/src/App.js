@@ -2,7 +2,6 @@ import logo from './logo.svg';
 import './App.css';
 import {shared}  from 'core';
 
-console.log('shared',shared)
 function App() {
   return (
     <div className="App">
